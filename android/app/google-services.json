@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421796401743",
+    "project_id": "glua-health-app-templat-70ts67",
+    "storage_bucket": "glua-health-app-templat-70ts67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421796401743:android:9b237066416410f963903a",
+        "android_client_info": {
+          "package_name": "com.mycompany.gluahealthapptemplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGBFNCVqqKCymNDrUL-sGkKEji7FtGnB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
